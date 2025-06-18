@@ -78,25 +78,25 @@ bash-----
 
 
 🏁 Final Goal
-By the end of Day 20, I will:
+  By the end of Day 20, I will:
 
-Be fluent in Bash scripting
+   * Be fluent in Bash scripting
 
-Automate real-world tasks
+   * Automate real-world tasks
 
-Handle file parsing, cron jobs, process monitoring
+   * Handle file parsing, cron jobs, process monitoring
 
-Be ready for DevOps/Linux/Cloud interviews
+   * Be ready for DevOps/Linux/Cloud interviews
 
 💬 Contributions, enhancements, or suggestions are welcome!
 
 Happy Scripting! 💥
 ~ Made with 💻 and ☕ by [Kaushalacts]
 
-===========================================================******************************===============================================================
+=======================================================******************************====================================
                                                             
 
 
-===========================================================*******************************==============================================================
+======================================================*******************************========================================
 
 
