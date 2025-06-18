@@ -12,13 +12,14 @@ To complete **100 Shell Scripting problems** in **20 days** by solving **5 tasks
 ---
 
 ## 🗂️ Folder Structure
-Shell-Practice/
-├── 01_basics/ # Basic syntax, user input, math, strings
-├── 02_files_text/ # File handling, text processing, grep, sed, awk
-├── 03_system_monitoring/ # System health, disk, CPU, memory, processes
-├── 04_devops_cloud/ # DevOps tasks, Docker, AWS CLI, Jenkins, cron
-├── 05_scripting_logic/ # Real-world automation, logic, file parsing
-└── README.md # You are here!
+
+Shell-Practice/  
+├── 01_basics/ # Basic syntax, user input, math, strings  
+├── 02_files_text/ # File handling, text processing, grep, sed, awk  
+├── 03_system_monitoring/ # System health, disk, CPU, memory, processes  
+├── 04_devops_cloud/ # DevOps tasks, Docker, AWS CLI, Jenkins, cron  
+├── 05_scripting_logic/ # Real-world automation, logic, file parsing  
+└── README.md # You are here!  
 
 
 ---
@@ -66,14 +67,14 @@ bash-----
 #./scriptname.sh 
 
 📘 How to Use This Repo: 
-1. Clone the repo:
-   git clone https://github.com/your-username/shell-practice.git
-   cd shell-practice
-2.Go to the current day's folder:
-    cd 01_basics/
-3.Pick the script file and run:
-    ./01_hello_world.sh
-4. Track your progress in progress.md
+1. Clone the repo:  
+   git clone https://github.com/kaushalacts/shell-practice.git  
+   cd shell-practice  
+2.Go to the current day's folder:  
+    cd 01_basics/  
+3.Pick the script file and run:  
+    ./01_hello_world.sh  
+4. Track your progress in progress.md  
 
 
 🏁 Final Goal
