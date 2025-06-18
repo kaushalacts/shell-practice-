@@ -94,7 +94,7 @@ bash-----
                ~ Made with 💻 and ☕ by [Kaushalacts]
 
 ===========================******************************====================================
-               🐧 Happy Learning – Shell Scripting 20-Day Challenge 💻                                               
+                        🐧 Happy Learning – Shell Scripting 20-Day Challenge 💻                                               
 ===========================******************************=====================================
 
 
