@@ -70,9 +70,9 @@ bash-----
 1. Clone the repo:  
    git clone https://github.com/kaushalacts/shell-practice.git  
    cd shell-practice  
-2.Go to the current day's folder:  
+2. Go to the current day's folder:  
     cd 01_basics/  
-3.Pick the script file and run:  
+3. Pick the script file and run:  
     ./01_hello_world.sh  
 4. Track your progress in progress.md  
 
