@@ -1,0 +1,6 @@
+==========================================================
+Great to see you guys. 
+*****************************************
+This file is to count the words for shell scripting.
+*****************************************
+/* Total no. words including this line :21 */
