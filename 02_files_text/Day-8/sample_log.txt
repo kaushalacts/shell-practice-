@@ -1,0 +1,4 @@
+Jul 6 10:15:32 server sshd[12345]: Accepted password for user from 192.168.1.10 port 2222 ssh2
+Jul 6 10:16:01 server CRON[12346]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Jul 6 10:17:22 server sshd[12347]: Failed password for root from 10.0.0.2 port 3456 ssh2
+Jul 6 10:18:10 server sshd[12348]: Connection closed by authenticating user admin 172.16.0.1 port 445 ssh2
